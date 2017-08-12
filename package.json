@@ -7,5 +7,21 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "^4.3.4",
+    "@angular/compiler": "^4.3.4",
+    "@angular/compiler-cli": "^4.3.4",
+    "@angular/core": "^4.3.4",
+    "@angular/forms": "^4.3.4",
+    "@angular/http": "^4.3.4",
+    "@angular/platform-browser": "^4.3.4",
+    "@angular/platform-browser-dynamic": "^4.3.4",
+    "@angular/platform-server": "^4.3.4",
+    "@angular/router": "^4.3.4",
+    "@angular/upgrade": "^4.3.4",
+    "core-js": "^2.5.0",
+    "rxjs": "^5.4.3",
+    "zone.js": "^0.8.16"
+  }
 }
